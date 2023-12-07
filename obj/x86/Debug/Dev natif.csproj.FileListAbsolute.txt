@@ -1,0 +1,45 @@
+C:\Users\tonyp\source\repos\Dev natif\bin\x86\Debug\App.xbf
+C:\Users\tonyp\source\repos\Dev natif\bin\x86\Debug\MainPage.xbf
+C:\Users\tonyp\source\repos\Dev natif\bin\x86\Debug\Dev natif.xr.xml
+C:\Users\tonyp\source\repos\Dev natif\bin\x86\Debug\Dev natif.exe
+C:\Users\tonyp\source\repos\Dev natif\bin\x86\Debug\Dev natif.pdb
+C:\Users\tonyp\source\repos\Dev natif\bin\x86\Debug\resources.pri
+C:\Users\tonyp\source\repos\Dev natif\bin\x86\Debug\AppxManifest.xml
+C:\Users\tonyp\source\repos\Dev natif\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\tonyp\source\repos\Dev natif\bin\x86\Debug\Core\Dev natif.exe
+C:\Users\tonyp\source\repos\Dev natif\bin\x86\Debug\Dev natif.build.appxrecipe
+C:\Users\tonyp\source\repos\Dev natif\bin\x86\Debug\System.Runtime.dll
+C:\Users\tonyp\source\repos\Dev natif\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\Dev natif.csproj.AssemblyReference.cache
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\App.g.i.cs
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\App.g.cs
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\MainPage.g.cs
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\App.xaml
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\MainPage.xaml
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\App.xbf
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\MainPage.xbf
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\Dev natif.csproj.CoreCompileInputs.cache
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\Dev natif.csproj.CopyComplete
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\Dev natif.exe
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\Dev natif.pdb
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\priconfig.xml
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\resources.resfiles
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\pri.resfiles
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\qualifiers.txt
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\tonyp\source\repos\Dev natif\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638194388980000000.json
